@@ -1,0 +1,9 @@
+animals = ['dog', 'cat', 'bird']
+
+for animal in animals:
+	print(animal)
+	
+for animal in animals:
+	print("\nA " + animal + ' would make a great pet.')
+	
+print('\nAny of these animals would make a great pet!')
