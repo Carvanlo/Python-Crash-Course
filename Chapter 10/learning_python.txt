@@ -1,0 +1,2 @@
+"string, list,dictionary, slice,tuple, if statement,input, function,import, open, python"
+'I really like python.'
